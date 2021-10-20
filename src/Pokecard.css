@@ -1,0 +1,26 @@
+.pokeCard {
+    padding: 2rem;
+    margin: 2rem;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    background-color: gray;
+    width: 200px;
+    display: inline-block;
+}
+
+.pokeType,
+.pokeExp {
+    display: block;
+    font-size: 1.2rem;
+}
+
+.pokeName {
+    font-size: 1.5rem;
+    color: blue;
+    text-align: center;
+}
+
+.pokeImage {
+    width: 50%;
+    height: 50%;
+}
